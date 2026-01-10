@@ -263,7 +263,7 @@
 ---
 
 ## American Security Vest
-![alt text](Images/pPsF5rb.png)
+![alt text](Images/vest.png)
 
 ### Model Polycount: 
 - Male LOD H: 1.650 - Female LOD H: 1.650   
@@ -374,6 +374,26 @@
 
 ---
 
+## TonyHiits Oni Mask
+![alt text](Images/masks.png)
+
+### Model Polycount: 
+- LOD H: 9.528
+- LOD M: 4.599
+- LOD L: 1.253
+
+### Embedded Textures:
+- Normal Map: 1024x1024
+- Specular Map: 512x512
+
+### YTDs: 
+
+- Texture count: 4 
+- Resolution: 1024x1024
+- DDS Format: BC7
+
+---
+
 ## Demon Verdict Low Beanie
 ![alt text](Images/9tW1r6h_d.webp)
 
@@ -389,3 +409,9 @@
 - Texture count: 1 
 - Resolution: 1024x1024
 - DDS Format: BC7
+
+### Vanilla DLC Location: 
+`update/x64/dlcpacks/mpsmuggler/dlc.rpf/x64/models/cdimages/mpsmuggler_male_p.rpf/mp_m_freemode_01_p_mp_m_smuggler_01`
+
+### FiveM Replace Name: 
+`mp_m_freemode_01_p_mp_m_smuggler_01^p_head_008`
