@@ -1,7 +1,7 @@
 # ONX ES Clothing Update
 
 ## Face Bandana
-![alt text](4VttXl4.png)
+![alt text](Images/4VttXl4.png)
 
 ### Model Polycount: 
 - LOD H: 656 
@@ -27,7 +27,7 @@
 ---
 
 ## Neck Gaiter
-![alt text](GWzCVmb.png)
+![alt text](Images/GWzCVmb.png)
 
 ### Model Polycount: 
 - LOD H: 944 
@@ -53,7 +53,7 @@
 ---
 
 ## Bandana for Pants (Front)
-![alt text](SBpIlTe.png)
+![alt text](Images/SBpIlTe.png)
 
 ### Model Polycount: 
 - LOD H: 230
@@ -73,7 +73,7 @@
 ---
 
 ## The Families Varsity Jacket
-![alt text](Nri6aYT.png)
+![alt text](Images/Nri6aYT.png)
 
 ### Model Polycount: 
 - Male LOD H: 2.898 - Female LOD H: 2.898
@@ -99,7 +99,7 @@
 ---
 
 ## Black Vulture Oversized Hoodie
-![alt text](wSOiFnY.png)
+![alt text](Images/wSOiFnY.png)
 
 ### Model Polycount: 
 - Male LOD H: 2.721 - Female LOD H: 2.721
@@ -119,7 +119,7 @@
 ---
 
 ## The Lost Hoodie 
-![alt text](nEO7D7c.png)
+![alt text](Images/nEO7D7c.png)
 
 ### Model Polycount: 
 - Male LOD H: 3.194 - Female LOD H: 3.196
@@ -145,7 +145,7 @@
 ---
 
 ## The Lost Vintage Patched Denim Cut 
-![[alt text]](FjnmHaE.png)
+![[alt text]](Images/FjnmHaE.png)
 
 ### Model Polycount: 
 - Male LOD H: 2.898 - Female LOD H: 2.808
@@ -171,7 +171,7 @@
 ---
 
 ## Asura Tank Top - Male Only
-![alt text](iVgHVpX.png)
+![alt text](Images/iVgHVpX.png)
 
 ### Model Polycount: 
 - LOD H: 1.228
@@ -197,7 +197,7 @@
 ---
 
 ## Asura T-Shirt - Female Only
-![alt text](2wcfC5L.png)
+![alt text](Images/2wcfC5L.png)
 
 ### Model Polycount: 
 - LOD H: 1.418
@@ -223,7 +223,7 @@
 ---
 
 ## The Lost Biker Kutte
-![alt text](L3FGpdf.png)
+![alt text](Images/L3FGpdf.png)
 
 ### Model Polycount: 
 - Male LOD H: 1.232 - Female LOD H: 4.936
@@ -243,7 +243,7 @@
 ---
 
 ## Demon Verdict Biker Kutte
-![alt text](KWPRzLG.png)
+![alt text](Images/KWPRzLG.png)
 
 ### Model Polycount: 
 - LOD H: 2.296
@@ -263,7 +263,7 @@
 ---
 
 ## American Security Vest
-![alt text](pPsF5rb.png)
+![alt text](Images/pPsF5rb.png)
 
 ### Model Polycount: 
 - Male LOD H: 1.650 - Female LOD H: 1.650   
@@ -289,7 +289,7 @@
 ---
 
 ## Decals for Demons Verdict Biker Kutte
-![alt text](X1nwyPR.png)
+![alt text](Images/X1nwyPR.png)
 
 ### Model Polycount: 
 - Male LOD H: 753 - Female LOD H: 750   
@@ -309,7 +309,7 @@
 ---
 
 ## Decals for The Lost Biker Kutte
-![alt text](mU972S3.png)
+![alt text](Images/mU972S3.png)
 
 ### Model Polycount: 
 - Male LOD H: 203 - Female LOD H: 853
@@ -329,7 +329,7 @@
 ---
 
 ## Asura Pants
-![alt text](9MYtih5.png)
+![alt text](Images/9MYtih5.png)
 
 ### Model Polycount: 
 - Male LOD H: 6.204
@@ -349,7 +349,7 @@
 ---
 
 ## News Press Pass Card
-![alt text](proRsqZ_d.webp)
+![alt text](Images/proRsqZ_d.webp)
 
 ### Model Polycount: 
 - Male LOD H: 498
@@ -375,7 +375,7 @@
 ---
 
 ## Demon Verdict Low Beanie
-![alt text](9tW1r6h_d.webp)
+![alt text](Images/9tW1r6h_d.webp)
 
 ### Model Polycount: 
 - Male LOD H: 1.100
