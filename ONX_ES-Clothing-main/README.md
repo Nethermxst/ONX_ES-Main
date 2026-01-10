@@ -27,7 +27,7 @@
 ---
 
 ## Neck Gaiter
-![alt text](<../../ONX ASSETS/github/Imagenes/gaiter.png>)
+![alt text](GWzCVmb.png)
 
 ### Model Polycount: 
 - LOD H: 944 
@@ -53,7 +53,7 @@
 ---
 
 ## Bandana for Pants (Front)
-![alt text](<../../ONX ASSETS/github/Imagenes/bandanas-2.png>)
+![alt text](SBpIlTe.png)
 
 ### Model Polycount: 
 - LOD H: 230
@@ -73,7 +73,7 @@
 ---
 
 ## The Families Varsity Jacket
-![alt text](<../../ONX ASSETS/github/Imagenes/varsity.png>)
+![alt text](Nri6aYT.png)
 
 ### Model Polycount: 
 - Male LOD H: 2.898 - Female LOD H: 2.898
@@ -99,7 +99,7 @@
 ---
 
 ## Black Vulture Oversized Hoodie
-![alt text](<../../ONX ASSETS/github/Imagenes/bv.png>)
+![alt text](wSOiFnY.png)
 
 ### Model Polycount: 
 - Male LOD H: 2.721 - Female LOD H: 2.721
@@ -119,7 +119,7 @@
 ---
 
 ## The Lost Hoodie 
-![alt text](<../../ONX ASSETS/github/Imagenes/hoodies.png>)
+![alt text](nEO7D7c.png)
 
 ### Model Polycount: 
 - Male LOD H: 3.194 - Female LOD H: 3.196
@@ -145,7 +145,7 @@
 ---
 
 ## The Lost Vintage Patched Denim Cut 
-![alt text](<../../ONX ASSETS/github/Imagenes/jackets.png>)
+![[alt text]](FjnmHaE.png)
 
 ### Model Polycount: 
 - Male LOD H: 2.898 - Female LOD H: 2.808
@@ -171,7 +171,7 @@
 ---
 
 ## Asura Tank Top - Male Only
-![alt text](<../../ONX ASSETS/github/Imagenes/tanktop.png>)
+![alt text](iVgHVpX.png)
 
 ### Model Polycount: 
 - LOD H: 1.228
@@ -197,7 +197,7 @@
 ---
 
 ## Asura T-Shirt - Female Only
-![alt text](<../../ONX ASSETS/github/Imagenes/asura-shirt.png>)
+![alt text](2wcfC5L.png)
 
 ### Model Polycount: 
 - LOD H: 1.418
@@ -223,7 +223,7 @@
 ---
 
 ## The Lost Biker Kutte
-![alt text](<../../ONX ASSETS/github/Imagenes/thelost-kutte.png>)
+![alt text](L3FGpdf.png)
 
 ### Model Polycount: 
 - Male LOD H: 1.232 - Female LOD H: 4.936
@@ -243,7 +243,7 @@
 ---
 
 ## Demon Verdict Biker Kutte
-![alt text](<../../ONX ASSETS/github/Imagenes/chaleco.png>)
+![alt text](KWPRzLG.png)
 
 ### Model Polycount: 
 - LOD H: 2.296
@@ -263,7 +263,7 @@
 ---
 
 ## American Security Vest
-![alt text](<../../ONX ASSETS/github/Imagenes/vest.png>)
+![alt text](pPsF5rb.png)
 
 ### Model Polycount: 
 - Male LOD H: 1.650 - Female LOD H: 1.650   
@@ -289,7 +289,7 @@
 ---
 
 ## Decals for Demons Verdict Biker Kutte
-![alt text](<../../ONX ASSETS/github/Imagenes/pegatinas.png>)
+![alt text](X1nwyPR.png)
 
 ### Model Polycount: 
 - Male LOD H: 753 - Female LOD H: 750   
@@ -309,7 +309,7 @@
 ---
 
 ## Decals for The Lost Biker Kutte
-![alt text](<../../ONX ASSETS/github/Imagenes/pegatinas2.png>)
+![alt text](mU972S3.png)
 
 ### Model Polycount: 
 - Male LOD H: 203 - Female LOD H: 853
@@ -329,7 +329,7 @@
 ---
 
 ## Asura Pants
-![alt text](<../../ONX ASSETS/github/Imagenes/pants.png>)
+![alt text](9MYtih5.png)
 
 ### Model Polycount: 
 - Male LOD H: 6.204
@@ -349,7 +349,7 @@
 ---
 
 ## News Press Pass Card
-![alt text](<../../ONX ASSETS/github/Imagenes/weazelnews.png>)
+![alt text](proRsqZ_d.webp)
 
 ### Model Polycount: 
 - Male LOD H: 498
@@ -375,7 +375,7 @@
 ---
 
 ## Demon Verdict Low Beanie
-![alt text](<../../ONX ASSETS/github/Imagenes/beanie.png>)
+![alt text](9tW1r6h_d.webp)
 
 ### Model Polycount: 
 - Male LOD H: 1.100
