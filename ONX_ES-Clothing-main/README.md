@@ -1,7 +1,7 @@
 # ONX ES Clothing Update
 
 ## Face Bandana
-![alt text](<../../ONX ASSETS/github/Imagenes/bandanas.png>)
+![alt text](4VttXl4.png)
 
 ### Model Polycount: 
 - LOD H: 656 
