@@ -254,7 +254,7 @@
 - DDS Format: BC7
 
 <a id="source-classic-vest"></a>
-### Source: [Classic Trimmed Vest by Bikermods](https://bikermods.com/products/classic-trimmed-vest-male) -- [Female Version](https://bikermods.com/products/classic-trimmed-vest-female?_pos=4&_sid=dd8a120df&_ss=r)
+### Source: Purchased from [Classic Trimmed Vest by Bikermods](https://bikermods.com/products/classic-trimmed-vest-male) — edited and adapted for ONX Spain by Nethermost.
 
 ---
 
@@ -277,7 +277,7 @@
 - DDS Format: BC7
 
 <a id="source-felony-vest"></a>
-### Source: [GTA 5 Mods - Felony Biker Vest by Clutit](https://www.gta5-mods.com/player/felony-biker-vest)
+### Source: Downloaded (free) from [GTA 5 Mods — Felony Biker Vest by Clutit](https://www.gta5-mods.com/player/felony-biker-vest) — edited and adapted for ONX Spain by Nethermost.
 
 ---
 
