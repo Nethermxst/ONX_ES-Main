@@ -351,26 +351,6 @@
 
 ---
 
-## Asura Pants
-![alt text](Images/9MYtih5.png)
-
-### Model Polycount: 
-- Male LOD H: 6.204
-- Male LOD M: 558
-- Male LOD L: 64
-
-### Embedded Textures:
-- Normal Map: 1024x1024
-- Specular Map: 1024x1024
-
-### YTDs: 
-
-- Texture count: 1 
-- Resolution: 1024x1024
-- DDS Format: DXT5
-
----
-
 ## News Press Pass Card
 ![alt text](Images/proRsqZ_d.webp)
 
