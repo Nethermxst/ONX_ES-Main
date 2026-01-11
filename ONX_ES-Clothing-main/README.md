@@ -70,6 +70,14 @@
 - Resolution: 512x512
 - DDS Format: BC7
 
+### Adapted from an existing GTA utility-belt asset, the original rag was re-sculpted and repurposed as a front‑hanging bandana.
+
+### Vanilla DLC Location: 
+`update/x64/dlcpacks/mpheist3/dlc.rpf/x64/models/cdimages/mpheist3_male.rpf/mp_m_freemode_01_mp_m_heist3`
+
+### FiveM Replace Name: 
+`mp_m_freemode_01_mp_m_heist3^accs_004_u`
+
 ---
 
 ## The Families Varsity Jacket
@@ -115,6 +123,11 @@
 - Texture count: 1 
 - Resolution: 1024x1024
 - DDS Format: DXT5
+
+### Adapted from the `G_M_Y_StrPunk_02` hoodie and refitted for `mp_m_freemode_01`; embedded textures and .ytd files were recreated for proper compatibility.
+
+### Vanilla DLC Location: 
+`x64v/models/cdimages/componentpeds_g_m_y/g_m_y_strpunk_02.ydd`
 
 ---
 
@@ -240,6 +253,9 @@
 - Resolution: 1024x1024
 - DDS Format: BC7
 
+<a id="source-classic-vest"></a>
+### Source: [Classic Trimmed Vest by Bikermods](https://bikermods.com/products/classic-trimmed-vest-male) -- [Female Version](https://bikermods.com/products/classic-trimmed-vest-female?_pos=4&_sid=dd8a120df&_ss=r)
+
 ---
 
 ## Demon Verdict Biker Kutte
@@ -259,6 +275,9 @@
 - Texture count: 1 
 - Resolution: 1024x1024
 - DDS Format: BC7
+
+<a id="source-felony-vest"></a>
+### Source: [GTA 5 Mods - Felony Biker Vest by Clutit](https://www.gta5-mods.com/player/felony-biker-vest)
 
 ---
 
@@ -306,6 +325,8 @@
 - Resolution: 2048x2048
 - DDS Format: BC7
 
+### Using the original source as a base, the asset was reworked and transformed into decals that naturally drape and align with the biker kutte. [Source details](#source-felony-vest)
+
 ---
 
 ## Decals for The Lost Biker Kutte
@@ -325,6 +346,8 @@
 - Texture count: 9 
 - Resolution: 2048x2048
 - DDS Format: BC7
+
+### Using the original source as a base, the asset was reworked and transformed into decals that naturally drape and align with the biker kutte. [Source details](#source-classic-vest)
 
 ---
 
@@ -392,13 +415,18 @@
 - Resolution: 1024x1024
 - DDS Format: BC7
 
+### Licensing & Credits
+
+- **Source:** Asset purchased from Fab — [Cyberpunk Oni Mask by Alternative Universe](https://www.fab.com/listings/c16cb417-7e71-46a1-b598-d50c4562388a) (Personal / Fab Standard License). Permitted: commercial and private use, modification, and distribution as part of this project; **prohibited:** standalone resale or free redistribution. See the Fab EULA for full terms.
+- **Author / Modifications:** Modified, remade for compatibility, and incorporated into this project by **Nethermost** (adapted for use as a GTA V asset).
+
 ---
 
 ## Demon Verdict Low Beanie
 ![alt text](Images/9tW1r6h_d.webp)
 
 ### Model Polycount: 
-- Male LOD H: 1.100
+- LOD H: 1.100
 
 ### Embedded Textures:
 - Normal Map: 512x512
