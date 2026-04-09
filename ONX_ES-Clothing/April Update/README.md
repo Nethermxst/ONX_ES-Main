@@ -1,7 +1,7 @@
 # ONX ES April Clothing Update
 
 ## Ketto Tenkai Bomber Jacket
-![alt text]()
+![alt text](jacket23.png)
 
 ### Model Polycount: 
 - LOD H: 3354
