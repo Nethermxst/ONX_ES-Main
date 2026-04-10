@@ -19,9 +19,9 @@
 - DDS Format: BC7
 
 ### Vanilla DLC Location: 
-- Male: `update/x64/dlcpacks/mpsum/dlc.rpf/x64/models/cdimages/mpsum_male.rpf/mp_m_freemode_01_mp_m_sum`
-- Female: `update/x64/dlcpacks/mpsum/dlc.rpf/x64/models/cdimages/mpsum_female.rpf/mp_f_freemode_01_mp_f_sum `
+- Male: `update/x64/dlcpacks/mpairraces/dlc.rpf/x64/models/cdimages/mpairraces_male.rpf/mp_m_freemode_01_mp_m_airraces_01`
+- Female: `update/x64/dlcpacks/mpairraces/dlc.rpf/x64/models/cdimages/mpairraces_female.rpf/mp_f_freemode_01_mp_f_airraces_01`
 
 ### FiveM Replace Name: 
-- Male: `mp_m_freemode_01_mp_m_sum^jbib_012_u`
-- Female: `mp_f_freemode_01_mp_f_sum^jbib_016_u`
+- Male: `mp_m_freemode_01_mp_m_airraces_01^jbib_003_u`
+- Female: `mp_f_freemode_01_mp_f_airraces_01^jbib_003_u`
